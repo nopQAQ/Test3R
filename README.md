@@ -38,7 +38,8 @@ cd ../../../
 
 Please follow [Spann3R](https://github.com/HengyiWang/spann3r/blob/main/docs/data_preprocess.md) and [Robustmvd](https://github.com/lmb-freiburg/robustmvd/blob/master/rmvd/data/README.md) to prepare **7scenes**, **Neural-RGBD**, **DTU** and **ETH3D** datasets.
 
-### Scripts
+### **Multi-view Reconstruction**
+
 ```bash
 bash eval/mv_recon/run.sh
 ```
