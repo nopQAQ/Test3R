@@ -1,0 +1,12 @@
+torch
+torchvision
+roma
+matplotlib
+tqdm
+opencv-python
+scipy
+einops
+trimesh
+tensorboard
+pyglet<2
+huggingface-hub[torch]>=0.22
