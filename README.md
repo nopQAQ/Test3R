@@ -3,13 +3,14 @@
 
 > **Test3R: Learning to Reconstruct 3D at Test Time**    
 > [Yuheng Yuan](https://github.com/nopQAQ), [Qiuhong Shen](https://scholar.google.com/citations?user=HsPH688AAAAJ&hl=en), [Shizun Wang](https://littlepure2333.github.io/home/), [Xingyi Yang](https://adamdad.github.io/), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)    
-> [xML Lab, National University of Singapore](https://sites.google.com/view/xml-nus/home?authuser=0)    
-<div align="center">
-  <img src="./assets/pipeline.png" width="100%" ></img>
-</div>
+> [xML Lab, National University of Singapore](https://sites.google.com/view/xml-nus/home?authuser=0)
 
 <a href="https://arxiv.org/abs/2506.13750"><img src="https://img.shields.io/badge/arXiv%20paper-2506.04158-b31b1b.svg" alt="arXiv"></a>
 <a href="https://test3r-nop.github.io/"><img src="https://img.shields.io/badge/GitHub-Pages-blue.svg?logo=github&" alt="Page"></a>
+  
+<div align="center">
+  <img src="./assets/pipeline.png" width="100%" ></img>
+</div>
 
 ## Getting Started
 
