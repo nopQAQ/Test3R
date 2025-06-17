@@ -8,6 +8,9 @@
   <img src="./assets/pipeline.png" width="100%" ></img>
 </div>
 
+<a href="https://arxiv.org/abs/2506.13750"><img src="https://img.shields.io/badge/arXiv%20paper-2506.04158-b31b1b.svg" alt="arXiv"></a>
+<a href="https://test3r-nop.github.io/"><img src="https://img.shields.io/badge/GitHub-Pages-blue.svg?logo=github&" alt="Page"></a>
+
 ## Getting Started
 
 ### Installation
