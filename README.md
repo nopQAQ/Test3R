@@ -63,5 +63,13 @@ Our code, data preprocessing pipeline, and evaluation scripts are based on sever
 
 ### BibTeX
 ```BibTeX
-
+@misc{yuan2025test3rlearningreconstruct3d,
+      title={Test3R: Learning to Reconstruct 3D at Test Time}, 
+      author={Yuheng Yuan and Qiuhong Shen and Shizun Wang and Xingyi Yang and Xinchao Wang},
+      year={2025},
+      eprint={2506.13750},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.13750}, 
+}
 ```
